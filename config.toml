@@ -1,0 +1,213 @@
+baseURL = "https://sanitary.bangunan.co/"
+languageCode = "id"
+title = "Pasang Wastafel Set | Tukang Pasang Wastafel dan CloSet Minimalis Berpengalaman"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Pasang Wastafel Set Minimalis - Layanan profesional pemasangan wastafel dan closet untuk kamar mandi dan dapur Anda, dengan desain modern dan berkualitas tinggi."
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/bangunanco-logo-web.png"
+  logo_amp = "/images/logo/bangunanco-512x512.png"
+  footer_logo = "/images/logo/bangunanco-logo-putih.png"
+  favicon = "/images/logo/bangunanco-512x512.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "K. Yaman"
+  telepon = "//+6285776786091"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+  # Schema settings
+  keywords = ["pasang wastafel", "wastafel minimalis", "closet minimalis", "tukang pasang wastafel", "pemasangan closet", "pasang wastafel dapur", "wastafel modern"]
+  base_price = 1500000
+  price_range = 300000
+  free_consultation = true
+  service_types = [
+  "Wastafel Minimalis untuk Kamar Mandi",
+  "Wastafel Dapur Modern",
+  "Closet Duduk Minimalis",
+  "Wastafel dan Closet Set Lengkap",
+  "Pemasangan Wastafel dan Closet dengan Desain Custom"
+  ]
+  categories = ["Sanitasi", "Pemasangan Wastafel", "Pemasangan Closet"]
+  payment_methods = ["Bayar Bertahap", "Transfer Bank", "Bayar DP 50%", "Transfer Setelah Selesai"]
+  area_served = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Cikarang", "Karawang", "Subang", "Cikampek", "Purwakarta", "Rangkas Bitung", "Serang"]
+  cancellation_policies = [
+  "Pemasangan dapat diulang dalam 1 hari jika tidak sesuai.",
+  "Layanan dapat ditolak jika pemasangan tidak sesuai permintaan.",
+  "Ada garansi untuk layanan yang tidak sesuai spesifikasi."
+  ]
+  service_output = "Wastafel dan closet dipasang sampai dapat dipakai dan tidak ada kendala"
+
+ # Hero Section
+  hero_image = "/images/admin/bg_bangunanco.png"
+  hero_title = "Layanan Pasang Wastafel Set Minimalis"
+  hero_description = "Kami menawarkan layanan pemasangan wastafel dan closet minimalis berkualitas tinggi yang cocok untuk kamar mandi dan dapur Anda. Solusi ideal untuk mempercantik ruangan dengan desain modern serta bahan yang tahan lama."
+  hero_cta_text = "Pelajari Lebih Lanjut"
+  services_cta_text = "Cek Katalog Wastafel"
+
+# Footer Section
+  footer_about_title = "Mengapa Memilih Kami"
+  footer_about_description = "Kami menyediakan layanan pemasangan wastafel dan closet minimalis dengan kualitas terbaik dan harga terjangkau. Layanan profesional dan konsultasi gratis untuk membantu Anda mendapatkan wastafel dan closet yang sesuai dengan kebutuhan ruang Anda."
+  footer_services_title = "Kenapa Pilih Kami"
+  footer_contact_title = "Kontak Kami"
+  footer_bottom_text = "@2024 Bangunan.co. Semua Hak Dilindungi."
+
+  # Testimonials Section
+  testimonials_title = "Apa Kata Klien Kami"
+
+  [[params.footer_services]]
+  text = "sanitary.bangunan.co menawarkan layanan pemasangan wastafel dan closet minimalis dengan harga bersaing. Kami mengutamakan kepuasan pelanggan dengan hasil pemasangan yang rapi, fungsional, dan estetis. Pilih kami untuk kebutuhan wastafel dan closet Anda."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jalan Lkr. Dramaga No. 09, Bogor - JaBar"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 857-7678-6091"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "bangunanco@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Saya memanfaatkan layanan pemasangan wastafel dari sanitary.bangunan.co untuk {kebutuhan dapur|proyek kamar mandi} di rumah. Hasilnya {amat rapi|super rapi|sangat teratur} dan desainnya {modern|elegan|minimalis}.|Layanan dari sanitary.bangunan.co benar-benar {membantu|efektif} dalam pemasangan wastafel di rumah saya. {Hasil akhir|Pemasangannya} memuaskan, dengan desain yang {modern|sesuai selera|elegan}.}"
+  response = "{Terima kasih atas kepercayaan Anda! Kami {bangga|senang|gembira} bisa memberikan layanan pemasangan wastafel berkualitas untuk {rumah|kamar mandi|dapur} Anda.|Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih layanan kami!}"
+  rating = 4.5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "{Siti|Rina|Dewi|Wati|Lia|Nina|Ratna|Indah|Sari|Ayu}"
+  message = "{sanitary.bangunan.co sangat {membantu|bermanfaat} dalam {memilih|menyediakan} dan memasang wastafel serta closet untuk {kebutuhan kamar mandi|keperluan rumah} saya. Hasilnya {sangat sesuai|betul-betul sesuai} dengan ekspektasi saya.|Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet sangat {baik|memuaskan}. Semua {terpasang sesuai harapan|dilakukan dengan baik} dan hasilnya sangat memuaskan.}"
+  response = "{Kami sangat menghargai ulasan Anda. Senang mengetahui Anda puas dengan layanan kami.|Terima kasih banyak atas kepercayaan Anda. Kami sangat menghargai ulasannya!}"
+  rating = 4.5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "{Joko|Budi|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Wastafel yang dipasang oleh sanitary.bangunan.co sangat {cocok|pas} dengan desain kamar mandi saya. Proses pemasangannya juga {cepat|tepat waktu|efisien}.|Pemasangan wastafel dari sanitary.bangunan.co sangat {profesional|cepat}, dan desainnya benar-benar sesuai dengan {kamar mandi|ruangan} saya.}"
+  response = "{Terima kasih! Kami berkomitmen memberikan layanan yang profesional dengan hasil terbaik.|Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan kami!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "{Andi|Budi|Joko|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Saya sangat puas dengan pemasangan wastafel dan closet dari sanitary.bangunan.co. Kualitasnya {hebat|luar biasa|sangat kokoh} dan {tahan lama|awet} untuk penggunaan sehari-hari.|Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet {sangat memuaskan|memuaskan}. Kualitas barangnya {terbaik|kokoh|bagus} dan pemasangannya sangat rapi.}"
+  response = "{Senang mendengar Anda puas dengan layanan kami. Terima kasih atas kepercayaannya!|Terima kasih atas ulasan Anda. Kami akan terus memberikan pelayanan terbaik.}"
+  rating = 4.5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "{Rina|Siti|Dewi|Wati|Lia|Nina|Ratna|Indah|Sari|Ayu}"
+  message = "{Pelayanan sanitary.bangunan.co sangat {baik|memuaskan}. Wastafel dan closet yang saya pasang sangat {berkualitas|kokoh|bagus} dan sesuai dengan desain minimalis yang saya inginkan.|sanitary.bangunan.co menyediakan wastafel dan closet yang sangat {berkualitas|elegan}, dan pemasangannya {tepat|profesional}. Desain minimalis yang saya inginkan berhasil terwujud.}"
+  response = "{Terima kasih! Kami senang bisa membantu mewujudkan desain wastafel set minimalis untuk {ruangan|kamar mandi} Anda.|Kami sangat menghargai kepercayaan Anda. Terima kasih atas ulasan positifnya!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Eko|Budi|Joko|Andi|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Wastafel dan closet dari sanitary.bangunan.co sangat {pas|cocok} dengan kebutuhan kamar mandi saya. Pemasangannya {efisien|cepat|tepat} dan hasilnya {baik|memuaskan|sesuai harapan}.|Pelayanan dari sanitary.bangunan.co sangat {baik|profesional|cepat}. Wastafel dan closet yang saya pasang {kokoh|berkualitas|elegan} dan hasilnya memuaskan.}"
+  response = "{Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih atas ulasannya!|Terima kasih atas ulasan positifnya. Kami berkomitmen untuk terus memberikan layanan terbaik!}"
+  rating = 5
+
+[[params.tabelItems]]
+  name = "Closet Wall-Hung"
+  price = "9.500.000 /unit"
+[[params.tabelItems]]
+  name = "Closet Duoblok"
+  price = "900.000 /unit"
+[[params.tabelItems]]
+  name = "Closet Monoblok"
+  price = "810.000 /unit"
+[[params.tabelItems]]
+  name = "Wastafel Undermount"
+  price = "400.000 /unit"
+[[params.tabelItems]]
+  name = "Wastafel Drop-in"
+  price = "786.000 /unit"
+[[params.tabelItems]]
+  name = "Wastafel Pedestal"
+  price = "700.000 /unit"
+[[params.tabelItems]]
+  name = "Wastafel Side by Side"
+  price = "350.000 /unit"
+[[params.tabelItems]]
+  name = "Wastafel Gantung"
+  price = "350.000 /unit"
+
+[params.appliList]
+  "Closet Wall-Hung" = "kamar mandi mewah, apartemen modern"
+  "Closet Duoblok" = "rumah sederhana, apartemen"
+  "Closet Monoblok" = "rumah minimalis, kantor kecil"
+  "Wastafel Undermount" = "dapur modern, kamar mandi rumah"
+  "Wastafel Drop-in" = "dapur tradisional, kamar mandi umum"
+  "Wastafel Pedestal" = "kamar mandi rumah, hotel"
+  "Wastafel Side by Side" = "restoran, dapur besar"
+  "Wastafel Gantung" = "toilet umum, kamar mandi kecil"
+
+[params.kegunaanList]
+  "Closet Wall-Hung" = "hemat ruang dan mudah dibersihkan"
+  "Closet Duoblok" = "efisien dan hemat biaya"
+  "Closet Monoblok" = "solusi sanitasi untuk ruang terbatas"
+  "Wastafel Undermount" = "tampilan bersih dan rapi untuk dapur modern"
+  "Wastafel Drop-in" = "pemasangan mudah dan efisien"
+  "Wastafel Pedestal" = "mempercantik kamar mandi dengan desain elegan"
+  "Wastafel Side by Side" = "memungkinkan penggunaan ganda di dapur besar"
+  "Wastafel Gantung" = "cocok untuk ruangan kecil dengan desain minimalis"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "https://bangunan.co/profile/"
+  [[params.menu_items]]
+    title = "Daftar Harga"
+    url = "https://bangunan.co/daftar-harga/"
+
+[params.header]
+   title = "Layanan Pasang Wastafel & Closet Berpengalaman | "
+   highlight = "Bangunan.co"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"

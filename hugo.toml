@@ -88,14 +88,14 @@ paginate = 6
   name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
   message = "{Saya memanfaatkan layanan pemasangan wastafel dari sanitary.bangunan.co untuk {kebutuhan dapur|proyek kamar mandi} di rumah. Hasilnya {amat rapi|super rapi|sangat teratur} dan desainnya {modern|elegan|minimalis}.|Layanan dari sanitary.bangunan.co benar-benar {membantu|efektif} dalam pemasangan wastafel di rumah saya. {Hasil akhir|Pemasangannya} memuaskan, dengan desain yang {modern|sesuai selera|elegan}.}"
   response = "{Terima kasih atas kepercayaan Anda! Kami {bangga|senang|gembira} bisa memberikan layanan pemasangan wastafel berkualitas untuk {rumah|kamar mandi|dapur} Anda.|Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih layanan kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Rina|Dewi|Wati|Lia|Nina|Ratna|Indah|Sari|Ayu}"
   message = "{sanitary.bangunan.co sangat {membantu|bermanfaat} dalam {memilih|menyediakan} dan memasang wastafel serta closet untuk {kebutuhan kamar mandi|keperluan rumah} saya. Hasilnya {sangat sesuai|betul-betul sesuai} dengan ekspektasi saya.|Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet sangat {baik|memuaskan}. Semua {terpasang sesuai harapan|dilakukan dengan baik} dan hasilnya sangat memuaskan.}"
   response = "{Kami sangat menghargai ulasan Anda. Senang mengetahui Anda puas dengan layanan kami.|Terima kasih banyak atas kepercayaan Anda. Kami sangat menghargai ulasannya!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
@@ -109,7 +109,7 @@ paginate = 6
   name = "{Andi|Budi|Joko|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
   message = "{Saya sangat puas dengan pemasangan wastafel dan closet dari sanitary.bangunan.co. Kualitasnya {hebat|luar biasa|sangat kokoh} dan {tahan lama|awet} untuk penggunaan sehari-hari.|Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet {sangat memuaskan|memuaskan}. Kualitas barangnya {terbaik|kokoh|bagus} dan pemasangannya sangat rapi.}"
   response = "{Senang mendengar Anda puas dengan layanan kami. Terima kasih atas kepercayaannya!|Terima kasih atas ulasan Anda. Kami akan terus memberikan pelayanan terbaik.}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"

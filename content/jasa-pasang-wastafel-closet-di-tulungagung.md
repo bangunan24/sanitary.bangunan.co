@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tulungagung"
-date: "2024-05-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tulungagung. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Tulungagung dengan sistem pembelian sesuka anda sendiri...."
+title: Jasa Pasang Wastafel & Closet di Tulungagung
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tulungagung. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Tulungagung dengan sistem pembelian sesuka anda
+  sendiri....
 ---
 
 Wastafel dan closet kayaknya sudah tdk heran lagi untuk anda. Kedua benda ini cukup masyhur di kalangan masyarakat. Kini sudah ada begitu banyak orang yg menggunakan wastafel dan closet modern.

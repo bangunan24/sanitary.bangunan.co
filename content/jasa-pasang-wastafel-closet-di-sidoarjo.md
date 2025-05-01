@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sidoarjo"
-date: "2024-05-25"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sidoarjo. Anda dapat memilih Jasa Pasang Wastafel & Closet di Sidoarjo dg sistem pembelian sesuka anda sendiri. Jika anda ra..."
+title: Jasa Pasang Wastafel & Closet di Sidoarjo
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sidoarjo. Anda dapat memilih Jasa Pasang
+  Wastafel & Closet di Sidoarjo dg sistem pembelian sesuka anda sendiri. Jika
+  anda ra...
 ---
 
 Wastafel dan closet sepertinya akan tidak asing lagi bagi anda. Kedua benda ini amat populer di kalangan masyarakat. Kini sudah ada sangat banyak orang yg memakai wastafel dan closet modern.

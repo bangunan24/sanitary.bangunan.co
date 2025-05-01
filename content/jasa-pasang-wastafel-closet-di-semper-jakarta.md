@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Semper Jakarta"
-date: "2024-05-25"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Semper Jakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Semper Jakarta dengan cara pembelian sesuka anda sendiri..."
+title: Jasa Pasang Wastafel & Closet di Semper Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Semper Jakarta. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Semper Jakarta dengan cara pembelian sesuka anda
+  sendiri...
 ---
 
 Wastafel dan closet kayaknya tidak akan heran lagi untuk anda. Kedua benda ini teramat terkenal di kalangan masyarakat. Kini telah ada banyak orang yang memakai wastafel dan closet modern.

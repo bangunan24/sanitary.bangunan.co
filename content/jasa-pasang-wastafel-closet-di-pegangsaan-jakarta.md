@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pegangsaan Jakarta"
-date: "2024-05-27"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pegangsaan Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Pegangsaan Jakarta dengan metode pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Pegangsaan Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pegangsaan Jakarta. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Pegangsaan Jakarta dengan metode pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya akan tidak asing lagi bagi anda. Kedua benda ini teramat masyhur di kalangan masyarakat. Kini telah ada begitu banyak orang yang memakai wastafel dan closet kekinian.

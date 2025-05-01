@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Rawasari Jakarta"
-date: "2024-05-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Rawasari Jakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Rawasari Jakarta dengan cara pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Rawasari Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Rawasari Jakarta. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Rawasari Jakarta dengan cara pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet kayaknya sudah tidak aneh lagi untuk anda. Kedua benda ini amat terkenal di kalangan masyarakat. Sekarang telah ada sangat banyak orang yg menerapkan wastafel dan closet modern.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sawah Besar Jakarta"
-date: "2024-05-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sawah Besar Jakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Sawah Besar Jakarta dengan cara pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Sawah Besar Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sawah Besar Jakarta. Anda dapat menjadikan
+  Jasa Pasang Wastafel & Closet di Sawah Besar Jakarta dengan cara pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya tidak akan aneh lagi bagi anda. Kedua benda ini cukup masyhur di semua kalangan. Sekarang telah ada sangat banyak orang yang memakai wastafel dan closet kekinian.

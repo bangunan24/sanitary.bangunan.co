@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sungai Bambu Jakarta"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sungai Bambu Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Sungai Bambu Jakarta dengan cara pembelian sesuka a..."
+title: Jasa Pasang Wastafel & Closet di Sungai Bambu Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sungai Bambu Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Sungai Bambu Jakarta dengan cara pembelian sesuka
+  a...
 ---
 
 Wastafel dan closet sepertinya akan tidak heran lagi untuk anda. Kedua benda ini teramat terkenal di berbagai lapisan. Sekarang telah ada banyak orang yg mengaplikasikan wastafel dan closet kekinian.

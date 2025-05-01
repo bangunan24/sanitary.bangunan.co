@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sukmajaya Depok"
-date: "2024-05-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sukmajaya Depok. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Sukmajaya Depok dengan cara pembelian sesuka anda sen..."
+title: Jasa Pasang Wastafel & Closet di Sukmajaya Depok
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sukmajaya Depok. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Sukmajaya Depok dengan cara pembelian sesuka anda
+  sen...
 ---
 
 Wastafel dan closet sepertinya tidak akan heran lagi untuk anda. Kedua benda ini teramat populer di kalangan masyarakat. Sekarang sudah ada begitu banyak orang yg memakai wastafel dan closet kekinian.

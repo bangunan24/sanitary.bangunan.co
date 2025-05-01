@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Mulyaharja Bogor"
-date: "2024-05-26"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Mulyaharja Bogor. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Mulyaharja Bogor dg metode pembelian sesuka anda se..."
+title: Jasa Pasang Wastafel & Closet di Mulyaharja Bogor
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Mulyaharja Bogor. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Mulyaharja Bogor dg metode pembelian sesuka anda
+  se...
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi bagi anda. Kedua benda ini amat populer di semua kalangan. Kini sudah ada begitu banyak orang yg memakai wastafel dan closet modern.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pondok Salam Purwakarta"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pondok Salam Purwakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Pondok Salam Purwakarta dengan cara pembelian s..."
+title: Jasa Pasang Wastafel & Closet di Pondok Salam Purwakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pondok Salam Purwakarta. Anda dapat memilih
+  Jasa Pasang Wastafel & Closet di Pondok Salam Purwakarta dengan cara pembelian
+  s...
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi bagi anda. Kedua benda ini teramat masyhur di semua kalangan. Kini telah ada begitu banyak orang yang menggunakan wastafel dan closet berkembang.

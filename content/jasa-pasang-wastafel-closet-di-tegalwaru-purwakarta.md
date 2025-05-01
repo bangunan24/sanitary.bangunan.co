@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tegalwaru Purwakarta"
-date: "2024-05-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tegalwaru Purwakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Tegalwaru Purwakarta dg cara pembelian sesuka a..."
+title: Jasa Pasang Wastafel & Closet di Tegalwaru Purwakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tegalwaru Purwakarta. Anda dapat menjadikan
+  Jasa Pasang Wastafel & Closet di Tegalwaru Purwakarta dg cara pembelian sesuka
+  a...
 ---
 
 Wastafel dan closet sepertinya tidak akan heran lagi bagi anda. Kedua benda ini cukup populer di kalangan masyarakat. Sekarang telah ada begitu banyak orang yang menerapkan wastafel dan closet kekinian.

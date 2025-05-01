@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pati"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pati. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Pati dg metode pembelian sesuka anda sendiri. Apabila anda ragu..."
+title: Jasa Pasang Wastafel & Closet di Pati
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pati. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Pati dg metode pembelian sesuka anda sendiri. Apabila
+  anda ragu...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi bagi anda. Kedua benda ini cukup terkenal di berbagai lapisan. Kini sudah ada banyak orang yg mengaplikasikan wastafel dan closet modern.

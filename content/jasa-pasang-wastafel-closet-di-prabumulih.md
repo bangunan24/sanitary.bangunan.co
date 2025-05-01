@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Prabumulih"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Prabumulih. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Prabumulih dengan cara pembelian sesuka anda sendiri. Jik..."
+title: Jasa Pasang Wastafel & Closet di Prabumulih
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Prabumulih. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Prabumulih dengan cara pembelian sesuka anda sendiri.
+  Jik...
 ---
 
 Wastafel dan closet sepertinya akan tdk aneh lagi bagi anda. Kedua benda ini amat populer di kalangan masyarakat. Kini sudah ada banyak orang yang memakai wastafel dan closet modern.

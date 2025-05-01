@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sempur Bogor"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sempur Bogor. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Sempur Bogor dengan metode pembelian sesuka anda sendir..."
+title: Jasa Pasang Wastafel & Closet di Sempur Bogor
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sempur Bogor. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Sempur Bogor dengan metode pembelian sesuka anda
+  sendir...
 ---
 
 Wastafel dan closet kayaknya akan tidak asing lagi bagi anda. Kedua benda ini teramat terkenal di kalangan masyarakat. Sekarang telah ada sangat banyak orang yg memakai wastafel dan closet kekinian.

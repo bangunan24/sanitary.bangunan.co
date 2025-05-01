@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pasar Rebo Jakarta"
-date: "2024-05-23"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pasar Rebo Jakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Pasar Rebo Jakarta dg cara pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Pasar Rebo Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pasar Rebo Jakarta. Anda dapat menjadikan
+  Jasa Pasang Wastafel & Closet di Pasar Rebo Jakarta dg cara pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi untuk anda. Kedua benda ini cukup terkenal di semua kalangan. Kini telah ada banyak orang yang memakai wastafel dan closet kekinian.

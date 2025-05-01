@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Yogyakarta"
-date: "2024-05-26"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Yogyakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Yogyakarta dg sistem pembelian sesuka anda sendiri. Jika and..."
+title: Jasa Pasang Wastafel & Closet di Yogyakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Yogyakarta. Anda dapat memilih Jasa Pasang
+  Wastafel & Closet di Yogyakarta dg sistem pembelian sesuka anda sendiri. Jika
+  and...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini teramat terkenal di kalangan masyarakat. Kini sudah ada sangat banyak orang yg memakai wastafel dan closet berkembang.

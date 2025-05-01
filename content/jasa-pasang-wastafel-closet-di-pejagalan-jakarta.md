@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pejagalan Jakarta"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pejagalan Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Pejagalan Jakarta dg metode pembelian sesuka anda send..."
+title: Jasa Pasang Wastafel & Closet di Pejagalan Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pejagalan Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Pejagalan Jakarta dg metode pembelian sesuka anda
+  send...
 ---
 
 Wastafel dan closet kayaknya sudah tdk heran lagi untuk anda. Kedua benda ini amat masyhur di kalangan masyarakat. Kini sudah ada banyak orang yang menggunakan wastafel dan closet berkembang.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Telagasari Karawang"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Telagasari Karawang. Anda bisa memilih Jasa Pasang Wastafel & Closet di Telagasari Karawang dg metode pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Telagasari Karawang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Telagasari Karawang. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Telagasari Karawang dg metode pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet kayaknya tidak akan heran lagi untuk anda. Kedua benda ini cukup masyhur di semua kalangan. Sekarang telah ada begitu banyak orang yang memakai wastafel dan closet modern.

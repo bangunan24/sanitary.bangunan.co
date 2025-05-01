@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Petamburan Jakarta"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Petamburan Jakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Petamburan Jakarta dengan sistem pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Petamburan Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Petamburan Jakarta. Anda dapat menjadikan
+  Jasa Pasang Wastafel & Closet di Petamburan Jakarta dengan sistem pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya sudah tidak heran lagi untuk anda. Kedua benda ini amat populer di kalangan masyarakat. Kini sudah ada begitu banyak orang yg menggunakan wastafel dan closet modern.

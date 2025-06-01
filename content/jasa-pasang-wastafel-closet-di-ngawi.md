@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Ngawi"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Ngawi. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Ngawi dg cara pembelian sesuka anda sendiri. Jika anda ragu den..."
+title: Jasa Pasang Wastafel & Closet di Ngawi
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Ngawi. Anda bisa menjadikan Jasa Pasang
+  Wastafel & Closet di Ngawi dg cara pembelian sesuka anda sendiri. Jika anda
+  ragu den...
 ---
 
 Wastafel dan closet sepertinya tidak akan heran lagi untuk anda. Kedua benda ini cukup terkenal di semua kalangan. Kini telah ada banyak orang yang menggunakan wastafel dan closet modern.

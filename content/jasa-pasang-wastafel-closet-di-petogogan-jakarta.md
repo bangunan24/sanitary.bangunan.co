@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Petogogan Jakarta"
-date: "2024-06-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Petogogan Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Petogogan Jakarta dg sistem pembelian sesuka anda send..."
+title: Jasa Pasang Wastafel & Closet di Petogogan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Petogogan Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Petogogan Jakarta dg sistem pembelian sesuka anda
+  send...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi untuk anda. Kedua benda ini cukup terkenal di kalangan masyarakat. Kini sudah ada begitu banyak orang yang menggunakan wastafel dan closet modern.

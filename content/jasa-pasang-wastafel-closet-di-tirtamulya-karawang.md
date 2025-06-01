@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tirtamulya Karawang"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tirtamulya Karawang. Anda dapat memilih Jasa Pasang Wastafel & Closet di Tirtamulya Karawang dg cara pembelian sesuka anda s..."
+title: Jasa Pasang Wastafel & Closet di Tirtamulya Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tirtamulya Karawang. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Tirtamulya Karawang dg cara pembelian sesuka anda
+  s...
 ---
 
 Wastafel dan closet kayaknya sudah tdk heran lagi untuk anda. Kedua benda ini teramat masyhur di berbagai lapisan. Sekarang telah ada banyak orang yang menggunakan wastafel dan closet berkembang.

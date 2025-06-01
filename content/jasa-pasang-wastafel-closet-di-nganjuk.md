@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Nganjuk"
-date: "2024-06-23"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Nganjuk. Anda dapat memilih Jasa Pasang Wastafel & Closet di Nganjuk dengan cara pembelian sesuka anda sendiri. Apabila anda..."
+title: Jasa Pasang Wastafel & Closet di Nganjuk
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Nganjuk. Anda dapat memilih Jasa Pasang
+  Wastafel & Closet di Nganjuk dengan cara pembelian sesuka anda sendiri.
+  Apabila anda...
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi bagi anda. Kedua benda ini cukup masyhur di semua kalangan. Kini sudah ada banyak orang yg memakai wastafel dan closet kekinian.

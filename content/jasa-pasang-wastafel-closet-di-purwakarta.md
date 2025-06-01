@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Purwakarta"
-date: "2024-06-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Purwakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Purwakarta dg cara pembelian sesuka anda sendiri. Jika an..."
+title: Jasa Pasang Wastafel & Closet di Purwakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Purwakarta. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Purwakarta dg cara pembelian sesuka anda sendiri. Jika
+  an...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi untuk anda. Kedua benda ini amat masyhur di kalangan masyarakat. Kini sudah ada sangat banyak orang yg menggunakan wastafel dan closet kekinian.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sukaraja"
-date: "2024-06-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sukaraja. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Sukaraja dg cara pembelian sesuka anda sendiri. Jika anda r..."
+title: Jasa Pasang Wastafel & Closet di Sukaraja
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sukaraja. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Sukaraja dg cara pembelian sesuka anda sendiri. Jika anda
+  r...
 ---
 
 Wastafel dan closet sepertinya akan tidak asing lagi untuk anda. Kedua benda ini cukup populer di kalangan masyarakat. Kini sudah ada begitu banyak orang yang memakai wastafel dan closet modern.

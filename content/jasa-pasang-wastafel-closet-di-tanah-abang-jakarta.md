@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tanah Abang Jakarta"
-date: "2024-06-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tanah Abang Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Tanah Abang Jakarta dg sistem pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Tanah Abang Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tanah Abang Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Tanah Abang Jakarta dg sistem pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi untuk anda. Kedua benda ini teramat populer di kalangan masyarakat. Kini telah ada begitu banyak orang yg mengaplikasikan wastafel dan closet berkembang.

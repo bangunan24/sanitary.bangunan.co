@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Warakas Jakarta"
-date: "2024-06-13"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Warakas Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Warakas Jakarta dengan metode pembelian sesuka anda send..."
+title: Jasa Pasang Wastafel & Closet di Warakas Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Warakas Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Warakas Jakarta dengan metode pembelian sesuka
+  anda send...
 ---
 
 Wastafel dan closet sepertinya akan tidak heran lagi untuk anda. Kedua benda ini teramat masyhur di kalangan masyarakat. Sekarang sudah ada begitu banyak orang yang memakai wastafel dan closet modern.

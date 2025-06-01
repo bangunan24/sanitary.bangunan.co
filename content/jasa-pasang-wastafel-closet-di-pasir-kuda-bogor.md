@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pasir Kuda Bogor"
-date: "2024-06-14"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pasir Kuda Bogor. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Pasir Kuda Bogor dengan cara pembelian sesuka anda s..."
+title: Jasa Pasang Wastafel & Closet di Pasir Kuda Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pasir Kuda Bogor. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Pasir Kuda Bogor dengan cara pembelian sesuka anda
+  s...
 ---
 
 Wastafel dan closet sepertinya sudah tdk aneh lagi bagi anda. Kedua benda ini teramat terkenal di berbagai lapisan. Sekarang telah ada sangat banyak orang yang memakai wastafel dan closet modern.

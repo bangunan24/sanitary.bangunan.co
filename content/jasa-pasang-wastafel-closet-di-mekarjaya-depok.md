@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Mekarjaya Depok"
-date: "2024-06-08"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Mekarjaya Depok. Anda dapat memilih Jasa Pasang Wastafel & Closet di Mekarjaya Depok dg metode pembelian sesuka anda sendiri..."
+title: Jasa Pasang Wastafel & Closet di Mekarjaya Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Mekarjaya Depok. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Mekarjaya Depok dg metode pembelian sesuka anda
+  sendiri...
 ---
 
 Wastafel dan closet sepertinya akan tdk heran lagi untuk anda. Kedua benda ini teramat populer di berbagai lapisan. Sekarang sudah ada begitu banyak orang yang menggunakan wastafel dan closet modern.

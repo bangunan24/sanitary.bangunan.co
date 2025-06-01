@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Meruyung Depok"
-date: "2024-06-16"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Meruyung Depok. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Meruyung Depok dg sistem pembelian sesuka anda sendir..."
+title: Jasa Pasang Wastafel & Closet di Meruyung Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Meruyung Depok. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Meruyung Depok dg sistem pembelian sesuka anda
+  sendir...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi untuk anda. Kedua benda ini teramat masyhur di berbagai lapisan. Kini telah ada banyak orang yg memakai wastafel dan closet kekinian.

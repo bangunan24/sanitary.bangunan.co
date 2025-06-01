@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Ranggamekar Bogor"
-date: "2024-06-11"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Ranggamekar Bogor. Anda dapat memilih Jasa Pasang Wastafel & Closet di Ranggamekar Bogor dg cara pembelian sesuka anda sendi..."
+title: Jasa Pasang Wastafel & Closet di Ranggamekar Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Ranggamekar Bogor. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Ranggamekar Bogor dg cara pembelian sesuka anda
+  sendi...
 ---
 
 Wastafel dan closet sepertinya tidak akan heran lagi bagi anda. Kedua benda ini cukup masyhur di kalangan masyarakat. Kini sudah ada banyak orang yang menerapkan wastafel dan closet kekinian.

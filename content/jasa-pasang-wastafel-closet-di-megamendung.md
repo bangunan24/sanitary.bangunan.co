@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Megamendung"
-date: "2024-06-10"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Megamendung. Anda dapat memilih Jasa Pasang Wastafel & Closet di Megamendung dengan cara pembelian sesuka anda sendiri. Apab..."
+title: Jasa Pasang Wastafel & Closet di Megamendung
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Megamendung. Anda dapat memilih Jasa Pasang
+  Wastafel & Closet di Megamendung dengan cara pembelian sesuka anda sendiri.
+  Apab...
 ---
 
 Wastafel dan closet sepertinya sudah tidak heran lagi untuk anda. Kedua benda ini amat populer di semua kalangan. Kini telah ada banyak orang yang menerapkan wastafel dan closet berkembang.

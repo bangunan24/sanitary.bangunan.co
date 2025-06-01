@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sawangan Depok"
-date: "2024-06-16"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sawangan Depok. Anda bisa memilih Jasa Pasang Wastafel & Closet di Sawangan Depok dg cara pembelian sesuka anda sendiri. Jik..."
+title: Jasa Pasang Wastafel & Closet di Sawangan Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sawangan Depok. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Sawangan Depok dg cara pembelian sesuka anda sendiri.
+  Jik...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi untuk anda. Kedua benda ini cukup terkenal di semua kalangan. Sekarang sudah ada sangat banyak orang yg menggunakan wastafel dan closet berkembang.

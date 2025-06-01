@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pekayon Jakarta"
-date: "2024-06-17"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pekayon Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Pekayon Jakarta dg cara pembelian sesuka anda sendiri..."
+title: Jasa Pasang Wastafel & Closet di Pekayon Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pekayon Jakarta. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Pekayon Jakarta dg cara pembelian sesuka anda
+  sendiri...
 ---
 
 Wastafel dan closet kayaknya sudah tidak heran lagi bagi anda. Kedua benda ini teramat masyhur di berbagai lapisan. Sekarang sudah ada sangat banyak orang yg mengaplikasikan wastafel dan closet modern.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pakisjaya Karawang"
-date: "2024-06-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pakisjaya Karawang. Anda dapat memilih Jasa Pasang Wastafel & Closet di Pakisjaya Karawang dg sistem pembelian sesuka anda s..."
+title: Jasa Pasang Wastafel & Closet di Pakisjaya Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pakisjaya Karawang. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Pakisjaya Karawang dg sistem pembelian sesuka anda
+  s...
 ---
 
 Wastafel dan closet sepertinya sudah tidak asing lagi bagi anda. Kedua benda ini amat populer di kalangan masyarakat. Sekarang telah ada begitu banyak orang yg menerapkan wastafel dan closet kekinian.

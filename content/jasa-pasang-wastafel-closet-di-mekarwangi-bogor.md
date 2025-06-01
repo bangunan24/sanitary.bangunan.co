@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Mekarwangi Bogor"
-date: "2024-06-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Mekarwangi Bogor. Anda dapat memilih Jasa Pasang Wastafel & Closet di Mekarwangi Bogor dengan cara pembelian sesuka anda sen..."
+title: Jasa Pasang Wastafel & Closet di Mekarwangi Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Mekarwangi Bogor. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Mekarwangi Bogor dengan cara pembelian sesuka anda
+  sen...
 ---
 
 Wastafel dan closet kayaknya akan tidak aneh lagi bagi anda. Kedua benda ini amat masyhur di kalangan masyarakat. Kini telah ada sangat banyak orang yang menggunakan wastafel dan closet modern.

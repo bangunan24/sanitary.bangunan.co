@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Mustika Jaya Bekasi"
-date: "2024-06-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Mustika Jaya Bekasi. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Mustika Jaya Bekasi dengan sistem pembelian sesuk..."
+title: Jasa Pasang Wastafel & Closet di Mustika Jaya Bekasi
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Mustika Jaya Bekasi. Anda bisa menjadikan
+  Jasa Pasang Wastafel & Closet di Mustika Jaya Bekasi dengan sistem pembelian
+  sesuk...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini amat masyhur di berbagai lapisan. Kini telah ada begitu banyak orang yg mengaplikasikan wastafel dan closet modern.

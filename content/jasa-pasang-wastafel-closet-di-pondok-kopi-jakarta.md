@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pondok Kopi Jakarta"
-date: "2024-06-05"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pondok Kopi Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Pondok Kopi Jakarta dg sistem pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Pondok Kopi Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pondok Kopi Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Pondok Kopi Jakarta dg sistem pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet kayaknya tidak akan heran lagi untuk anda. Kedua benda ini teramat masyhur di kalangan masyarakat. Sekarang sudah ada banyak orang yang menggunakan wastafel dan closet berkembang.

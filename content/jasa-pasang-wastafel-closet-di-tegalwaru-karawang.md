@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tegalwaru Karawang"
-date: "2024-06-11"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tegalwaru Karawang. Anda bisa memilih Jasa Pasang Wastafel & Closet di Tegalwaru Karawang dengan cara pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Tegalwaru Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tegalwaru Karawang. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Tegalwaru Karawang dengan cara pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi bagi anda. Kedua benda ini teramat populer di berbagai lapisan. Kini telah ada begitu banyak orang yang menerapkan wastafel dan closet kekinian.

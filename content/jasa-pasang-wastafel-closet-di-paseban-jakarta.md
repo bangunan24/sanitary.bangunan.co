@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Paseban Jakarta"
-date: "2024-06-07"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Paseban Jakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Paseban Jakarta dg cara pembelian sesuka anda sendiri...."
+title: Jasa Pasang Wastafel & Closet di Paseban Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Paseban Jakarta. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Paseban Jakarta dg cara pembelian sesuka anda
+  sendiri....
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi bagi anda. Kedua benda ini teramat terkenal di berbagai lapisan. Kini telah ada begitu banyak orang yang menggunakan wastafel dan closet modern.

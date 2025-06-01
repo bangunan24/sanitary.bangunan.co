@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Serengseng Jakarta"
-date: "2024-06-13"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Serengseng Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Serengseng Jakarta dengan cara pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Serengseng Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Serengseng Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Serengseng Jakarta dengan cara pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet kayaknya akan tdk aneh lagi bagi anda. Kedua benda ini amat terkenal di semua kalangan. Sekarang telah ada sangat banyak orang yg mengaplikasikan wastafel dan closet modern.

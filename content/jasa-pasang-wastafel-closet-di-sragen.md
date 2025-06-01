@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sragen"
-date: "2024-06-03"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sragen. Anda bisa memilih Jasa Pasang Wastafel & Closet di Sragen dg metode pembelian sesuka anda sendiri. Apabila anda ragu..."
+title: Jasa Pasang Wastafel & Closet di Sragen
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sragen. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Sragen dg metode pembelian sesuka anda sendiri. Apabila
+  anda ragu...
 ---
 
 Wastafel dan closet sepertinya tidak akan heran lagi bagi anda. Kedua benda ini cukup masyhur di semua kalangan. Kini telah ada banyak orang yang menggunakan wastafel dan closet modern.

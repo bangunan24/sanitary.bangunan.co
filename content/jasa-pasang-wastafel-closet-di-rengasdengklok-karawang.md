@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Rengasdengklok Karawang"
-date: "2024-06-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Rengasdengklok Karawang. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Rengasdengklok Karawang dengan metode pembel..."
+title: Jasa Pasang Wastafel & Closet di Rengasdengklok Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Rengasdengklok Karawang. Anda dapat
+  menjadikan Jasa Pasang Wastafel & Closet di Rengasdengklok Karawang dengan
+  metode pembel...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini cukup populer di semua kalangan. Kini telah ada begitu banyak orang yang mengaplikasikan wastafel dan closet modern.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pinang Ranti Jakarta"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pinang Ranti Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Pinang Ranti Jakarta dg sistem pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Pinang Ranti Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pinang Ranti Jakarta. Anda bisa menjadikan
+  Jasa Pasang Wastafel & Closet di Pinang Ranti Jakarta dg sistem pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya akan tdk aneh lagi untuk anda. Kedua benda ini teramat masyhur di berbagai lapisan. Kini sudah ada sangat banyak orang yang menggunakan wastafel dan closet modern.

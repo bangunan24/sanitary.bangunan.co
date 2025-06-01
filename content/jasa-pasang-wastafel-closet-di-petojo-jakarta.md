@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Petojo Jakarta"
-date: "2024-06-17"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Petojo Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Petojo Jakarta dengan sistem pembelian sesuka anda sendir..."
+title: Jasa Pasang Wastafel & Closet di Petojo Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Petojo Jakarta. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Petojo Jakarta dengan sistem pembelian sesuka anda
+  sendir...
 ---
 
 Wastafel dan closet sepertinya sudah tidak heran lagi untuk anda. Kedua benda ini teramat terkenal di semua kalangan. Sekarang sudah ada sangat banyak orang yang menggunakan wastafel dan closet berkembang.

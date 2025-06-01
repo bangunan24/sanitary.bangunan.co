@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Purwasari Karawang"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Purwasari Karawang. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Purwasari Karawang dengan cara pembelian sesuka an..."
+title: Jasa Pasang Wastafel & Closet di Purwasari Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Purwasari Karawang. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Purwasari Karawang dengan cara pembelian sesuka
+  an...
 ---
 
 Wastafel dan closet sepertinya sudah tdk asing lagi untuk anda. Kedua benda ini amat masyhur di kalangan masyarakat. Kini sudah ada banyak orang yg mengaplikasikan wastafel dan closet berkembang.

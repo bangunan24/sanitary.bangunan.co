@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sukamaju Depok"
-date: "2024-06-30"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sukamaju Depok. Anda bisa memilih Jasa Pasang Wastafel & Closet di Sukamaju Depok dg cara pembelian sesuka anda sendiri. Jik..."
+title: Jasa Pasang Wastafel & Closet di Sukamaju Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sukamaju Depok. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Sukamaju Depok dg cara pembelian sesuka anda sendiri.
+  Jik...
 ---
 
 Wastafel dan closet kayaknya akan tidak aneh lagi untuk anda. Kedua benda ini teramat terkenal di berbagai lapisan. Kini telah ada sangat banyak orang yang mengaplikasikan wastafel dan closet kekinian.

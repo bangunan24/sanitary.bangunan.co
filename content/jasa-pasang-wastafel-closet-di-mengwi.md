@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Mengwi"
-date: "2024-06-09"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Mengwi. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Mengwi dg cara pembelian sesuka anda sendiri. Jika anda ragu..."
+title: Jasa Pasang Wastafel & Closet di Mengwi
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Mengwi. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Mengwi dg cara pembelian sesuka anda sendiri. Jika anda
+  ragu...
 ---
 
 Wastafel dan closet kayaknya tidak akan heran lagi untuk anda. Kedua benda ini teramat populer di semua kalangan. Kini telah ada begitu banyak orang yg menerapkan wastafel dan closet modern.

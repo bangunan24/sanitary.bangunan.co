@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pondok Bambu Jakarta"
-date: "2024-06-03"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pondok Bambu Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Pondok Bambu Jakarta dengan metode pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Pondok Bambu Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pondok Bambu Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Pondok Bambu Jakarta dengan metode pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya tidak akan aneh lagi bagi anda. Kedua benda ini cukup populer di semua kalangan. Kini telah ada begitu banyak orang yg menggunakan wastafel dan closet kekinian.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Temanggung"
-date: "2024-06-08"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Temanggung. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Temanggung dengan cara pembelian sesuka anda sendiri. Jik..."
+title: Jasa Pasang Wastafel & Closet di Temanggung
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Temanggung. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Temanggung dengan cara pembelian sesuka anda sendiri.
+  Jik...
 ---
 
 Wastafel dan closet kayaknya akan tdk aneh lagi bagi anda. Kedua benda ini amat terkenal di semua kalangan. Kini sudah ada begitu banyak orang yg memakai wastafel dan closet modern.

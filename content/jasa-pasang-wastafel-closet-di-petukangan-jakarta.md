@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Petukangan Jakarta"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Petukangan Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Petukangan Jakarta dg sistem pembelian sesuka anda se..."
+title: Jasa Pasang Wastafel & Closet di Petukangan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Petukangan Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Petukangan Jakarta dg sistem pembelian sesuka anda
+  se...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini amat populer di berbagai lapisan. Kini sudah ada sangat banyak orang yg menerapkan wastafel dan closet kekinian.

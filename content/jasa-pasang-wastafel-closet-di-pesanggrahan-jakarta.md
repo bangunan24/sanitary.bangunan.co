@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pesanggrahan Jakarta"
-date: "2024-06-07"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pesanggrahan Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Pesanggrahan Jakarta dengan sistem pembelian ses..."
+title: Jasa Pasang Wastafel & Closet di Pesanggrahan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pesanggrahan Jakarta. Anda bisa menjadikan
+  Jasa Pasang Wastafel & Closet di Pesanggrahan Jakarta dengan sistem pembelian
+  ses...
 ---
 
 Wastafel dan closet kayaknya akan tidak heran lagi bagi anda. Kedua benda ini teramat masyhur di berbagai lapisan. Kini telah ada sangat banyak orang yang memakai wastafel dan closet kekinian.

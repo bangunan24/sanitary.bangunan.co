@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Situ Gede Bogor"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Situ Gede Bogor. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Situ Gede Bogor dg cara pembelian sesuka anda sendir..."
+title: Jasa Pasang Wastafel & Closet di Situ Gede Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Situ Gede Bogor. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Situ Gede Bogor dg cara pembelian sesuka anda
+  sendir...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi untuk anda. Kedua benda ini amat terkenal di berbagai lapisan. Sekarang sudah ada begitu banyak orang yang menerapkan wastafel dan closet modern.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tegal Alur Jakarta"
-date: "2024-06-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tegal Alur Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Tegal Alur Jakarta dengan cara pembelian sesuka an..."
+title: Jasa Pasang Wastafel & Closet di Tegal Alur Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tegal Alur Jakarta. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Tegal Alur Jakarta dengan cara pembelian sesuka
+  an...
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi untuk anda. Kedua benda ini teramat populer di berbagai lapisan. Kini sudah ada begitu banyak orang yang menggunakan wastafel dan closet kekinian.

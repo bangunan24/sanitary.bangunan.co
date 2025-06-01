@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sukasari Purwakarta"
-date: "2024-06-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sukasari Purwakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Sukasari Purwakarta dengan sistem pembelian sesu..."
+title: Jasa Pasang Wastafel & Closet di Sukasari Purwakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sukasari Purwakarta. Anda dapat menjadikan
+  Jasa Pasang Wastafel & Closet di Sukasari Purwakarta dengan sistem pembelian
+  sesu...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini teramat masyhur di kalangan masyarakat. Kini sudah ada sangat banyak orang yang memakai wastafel dan closet kekinian.

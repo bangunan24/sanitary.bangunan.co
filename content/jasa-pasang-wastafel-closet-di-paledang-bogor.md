@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Paledang Bogor"
-date: "2024-06-17"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Paledang Bogor. Anda bisa memilih Jasa Pasang Wastafel & Closet di Paledang Bogor dengan sistem pembelian sesuka anda sendir..."
+title: Jasa Pasang Wastafel & Closet di Paledang Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Paledang Bogor. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Paledang Bogor dengan sistem pembelian sesuka anda
+  sendir...
 ---
 
 Wastafel dan closet kayaknya tidak akan heran lagi untuk anda. Kedua benda ini teramat masyhur di semua kalangan. Kini sudah ada banyak orang yg memakai wastafel dan closet berkembang.

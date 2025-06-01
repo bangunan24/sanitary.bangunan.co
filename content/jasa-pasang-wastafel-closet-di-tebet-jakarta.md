@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tebet Jakarta"
-date: "2024-06-04"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tebet Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Tebet Jakarta dengan metode pembelian sesuka anda sendiri...."
+title: Jasa Pasang Wastafel & Closet di Tebet Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tebet Jakarta. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Tebet Jakarta dengan metode pembelian sesuka anda
+  sendiri....
 ---
 
 Wastafel dan closet kayaknya akan tidak aneh lagi untuk anda. Kedua benda ini amat masyhur di kalangan masyarakat. Kini sudah ada begitu banyak orang yang mengaplikasikan wastafel dan closet berkembang.

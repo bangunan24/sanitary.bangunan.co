@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Telukjambe Karawang"
-date: "2024-06-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Telukjambe Karawang. Anda dapat memilih Jasa Pasang Wastafel & Closet di Telukjambe Karawang dengan metode pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Telukjambe Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Telukjambe Karawang. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Telukjambe Karawang dengan metode pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya sudah tdk heran lagi untuk anda. Kedua benda ini teramat populer di berbagai lapisan. Kini telah ada sangat banyak orang yang memakai wastafel dan closet kekinian.

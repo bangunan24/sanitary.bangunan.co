@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sumur Batu Jakarta"
-date: "2024-06-19"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sumur Batu Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Sumur Batu Jakarta dengan metode pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Sumur Batu Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sumur Batu Jakarta. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Sumur Batu Jakarta dengan metode pembelian
+  sesuka...
 ---
 
 Wastafel dan closet sepertinya sudah tdk asing lagi bagi anda. Kedua benda ini teramat masyhur di kalangan masyarakat. Kini sudah ada begitu banyak orang yg menerapkan wastafel dan closet modern.

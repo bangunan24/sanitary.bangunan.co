@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tarutung"
-date: "2024-07-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tarutung. Anda bisa memilih Jasa Pasang Wastafel & Closet di Tarutung dengan cara pembelian sesuka anda sendiri. Apabila and..."
+title: Jasa Pasang Wastafel & Closet di Tarutung
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tarutung. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Tarutung dengan cara pembelian sesuka anda sendiri.
+  Apabila and...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi bagi anda. Kedua benda ini cukup populer di semua kalangan. Sekarang telah ada begitu banyak orang yang menerapkan wastafel dan closet modern.

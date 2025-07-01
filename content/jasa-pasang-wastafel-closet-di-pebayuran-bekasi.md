@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pebayuran Bekasi"
-date: "2024-07-08"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pebayuran Bekasi. Anda bisa memilih Jasa Pasang Wastafel & Closet di Pebayuran Bekasi dg cara pembelian sesuka anda sendiri...."
+title: Jasa Pasang Wastafel & Closet di Pebayuran Bekasi
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pebayuran Bekasi. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Pebayuran Bekasi dg cara pembelian sesuka anda
+  sendiri....
 ---
 
 Wastafel dan closet kayaknya akan tdk asing lagi untuk anda. Kedua benda ini amat terkenal di kalangan masyarakat. Kini sudah ada banyak orang yg memakai wastafel dan closet kekinian.

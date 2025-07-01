@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Plered Purwakarta"
-date: "2024-07-13"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Plered Purwakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Plered Purwakarta dengan metode pembelian sesuka an..."
+title: Jasa Pasang Wastafel & Closet di Plered Purwakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Plered Purwakarta. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Plered Purwakarta dengan metode pembelian sesuka
+  an...
 ---
 
 Wastafel dan closet sepertinya akan tidak asing lagi bagi anda. Kedua benda ini amat populer di berbagai lapisan. Sekarang sudah ada begitu banyak orang yg mengaplikasikan wastafel dan closet modern.

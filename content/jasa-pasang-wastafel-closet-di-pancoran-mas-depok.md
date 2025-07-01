@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pancoran Mas Depok"
-date: "2024-07-25"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pancoran Mas Depok. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Pancoran Mas Depok dg metode pembelian sesuka and..."
+title: Jasa Pasang Wastafel & Closet di Pancoran Mas Depok
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pancoran Mas Depok. Anda dapat menjadikan
+  Jasa Pasang Wastafel & Closet di Pancoran Mas Depok dg metode pembelian sesuka
+  and...
 ---
 
 Wastafel dan closet kayaknya akan tidak asing lagi untuk anda. Kedua benda ini teramat masyhur di berbagai lapisan. Sekarang sudah ada banyak orang yg menerapkan wastafel dan closet modern.

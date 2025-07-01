@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sukapura Jakarta"
-date: "2024-07-17"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sukapura Jakarta. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Sukapura Jakarta dg cara pembelian sesuka anda sendi..."
+title: Jasa Pasang Wastafel & Closet di Sukapura Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sukapura Jakarta. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Sukapura Jakarta dg cara pembelian sesuka anda
+  sendi...
 ---
 
 Wastafel dan closet kayaknya sudah tdk asing lagi untuk anda. Kedua benda ini cukup populer di berbagai lapisan. Kini telah ada banyak orang yang memakai wastafel dan closet berkembang.

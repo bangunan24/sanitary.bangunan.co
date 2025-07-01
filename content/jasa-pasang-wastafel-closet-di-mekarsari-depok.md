@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Mekarsari Depok"
-date: "2024-07-07"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Mekarsari Depok. Anda bisa menjadikan Jasa Pasang Wastafel & Closet di Mekarsari Depok dg metode pembelian sesuka anda sendi..."
+title: Jasa Pasang Wastafel & Closet di Mekarsari Depok
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Mekarsari Depok. Anda bisa menjadikan Jasa
+  Pasang Wastafel & Closet di Mekarsari Depok dg metode pembelian sesuka anda
+  sendi...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini amat masyhur di semua kalangan. Sekarang sudah ada sangat banyak orang yg memakai wastafel dan closet kekinian.

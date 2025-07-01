@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Menteng Jakarta"
-date: "2024-07-29"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Menteng Jakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Menteng Jakarta dg metode pembelian sesuka anda sendiri..."
+title: Jasa Pasang Wastafel & Closet di Menteng Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Menteng Jakarta. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Menteng Jakarta dg metode pembelian sesuka anda
+  sendiri...
 ---
 
 Wastafel dan closet sepertinya sudah tidak heran lagi untuk anda. Kedua benda ini cukup terkenal di semua kalangan. Kini telah ada banyak orang yg mengaplikasikan wastafel dan closet kekinian.

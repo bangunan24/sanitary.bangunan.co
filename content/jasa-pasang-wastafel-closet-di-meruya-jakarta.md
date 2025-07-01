@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Meruya Jakarta"
-date: "2024-07-05"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Meruya Jakarta. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Meruya Jakarta dengan cara pembelian sesuka anda send..."
+title: Jasa Pasang Wastafel & Closet di Meruya Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Meruya Jakarta. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Meruya Jakarta dengan cara pembelian sesuka anda
+  send...
 ---
 
 Wastafel dan closet sepertinya sudah tdk asing lagi bagi anda. Kedua benda ini teramat masyhur di semua kalangan. Kini sudah ada begitu banyak orang yang memakai wastafel dan closet kekinian.

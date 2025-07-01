@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Sukoharjo"
-date: "2024-07-09"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Sukoharjo. Anda bisa memilih Jasa Pasang Wastafel & Closet di Sukoharjo dengan cara pembelian sesuka anda sendiri. Jika anda..."
+title: Jasa Pasang Wastafel & Closet di Sukoharjo
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Sukoharjo. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Sukoharjo dengan cara pembelian sesuka anda sendiri. Jika
+  anda...
 ---
 
 Wastafel dan closet sepertinya sudah tidak asing lagi untuk anda. Kedua benda ini amat terkenal di kalangan masyarakat. Sekarang sudah ada sangat banyak orang yang memakai wastafel dan closet kekinian.

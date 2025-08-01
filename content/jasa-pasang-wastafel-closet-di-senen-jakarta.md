@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Senen Jakarta"
-date: "2024-08-28"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Senen Jakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Senen Jakarta dg cara pembelian sesuka anda sendiri. Jika..."
+title: Jasa Pasang Wastafel & Closet di Senen Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Senen Jakarta. Anda dapat memilih Jasa Pasang
+  Wastafel & Closet di Senen Jakarta dg cara pembelian sesuka anda sendiri.
+  Jika...
 ---
 
 Wastafel dan closet kayaknya akan tidak asing lagi untuk anda. Kedua benda ini teramat populer di semua kalangan. Kini telah ada begitu banyak orang yang mengaplikasikan wastafel dan closet modern.

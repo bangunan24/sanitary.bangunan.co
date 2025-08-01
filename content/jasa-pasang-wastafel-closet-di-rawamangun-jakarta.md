@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Rawamangun Jakarta"
-date: "2024-08-31"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Rawamangun Jakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Rawamangun Jakarta dengan cara pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Rawamangun Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Rawamangun Jakarta. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Rawamangun Jakarta dengan cara pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet sepertinya akan tdk aneh lagi bagi anda. Kedua benda ini amat populer di semua kalangan. Sekarang sudah ada sangat banyak orang yg menggunakan wastafel dan closet kekinian.

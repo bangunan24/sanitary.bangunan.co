@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pangkalan Jati Depok"
-date: "2024-08-27"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pangkalan Jati Depok. Anda bisa memilih Jasa Pasang Wastafel & Closet di Pangkalan Jati Depok dengan metode pembelian sesuka..."
+title: Jasa Pasang Wastafel & Closet di Pangkalan Jati Depok
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pangkalan Jati Depok. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Pangkalan Jati Depok dengan metode pembelian
+  sesuka...
 ---
 
 Wastafel dan closet kayaknya sudah tidak aneh lagi bagi anda. Kedua benda ini amat populer di semua kalangan. Sekarang sudah ada banyak orang yg mengaplikasikan wastafel dan closet kekinian.

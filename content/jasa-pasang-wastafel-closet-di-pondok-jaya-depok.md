@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Pondok Jaya Depok"
-date: "2024-08-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Pondok Jaya Depok. Anda dapat memilih Jasa Pasang Wastafel & Closet di Pondok Jaya Depok dg metode pembelian sesuka anda sen..."
+title: Jasa Pasang Wastafel & Closet di Pondok Jaya Depok
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Pondok Jaya Depok. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Pondok Jaya Depok dg metode pembelian sesuka anda
+  sen...
 ---
 
 Wastafel dan closet sepertinya tidak akan aneh lagi bagi anda. Kedua benda ini amat masyhur di semua kalangan. Kini telah ada sangat banyak orang yg menerapkan wastafel dan closet kekinian.

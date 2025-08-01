@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Padalarang"
-date: "2024-08-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Padalarang. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Padalarang dg cara pembelian sesuka anda sendiri. Apabila..."
+title: Jasa Pasang Wastafel & Closet di Padalarang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Padalarang. Anda dapat menjadikan Jasa Pasang
+  Wastafel & Closet di Padalarang dg cara pembelian sesuka anda sendiri.
+  Apabila...
 ---
 
 Wastafel dan closet kayaknya tidak akan asing lagi untuk anda. Kedua benda ini amat terkenal di semua kalangan. Sekarang sudah ada banyak orang yang memakai wastafel dan closet modern.

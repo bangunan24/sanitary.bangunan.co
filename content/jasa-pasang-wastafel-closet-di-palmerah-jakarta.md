@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Palmerah Jakarta"
-date: "2024-08-04"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Palmerah Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Palmerah Jakarta dengan cara pembelian sesuka anda send..."
+title: Jasa Pasang Wastafel & Closet di Palmerah Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Palmerah Jakarta. Anda bisa memilih Jasa
+  Pasang Wastafel & Closet di Palmerah Jakarta dengan cara pembelian sesuka anda
+  send...
 ---
 
 Wastafel dan closet kayaknya sudah tidak aneh lagi bagi anda. Kedua benda ini amat terkenal di semua kalangan. Kini telah ada sangat banyak orang yang menggunakan wastafel dan closet modern.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Slipi Jakarta"
-date: "2024-08-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Slipi Jakarta. Anda bisa memilih Jasa Pasang Wastafel & Closet di Slipi Jakarta dg cara pembelian sesuka anda sendiri. Jika..."
+title: Jasa Pasang Wastafel & Closet di Slipi Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Slipi Jakarta. Anda bisa memilih Jasa Pasang
+  Wastafel & Closet di Slipi Jakarta dg cara pembelian sesuka anda sendiri.
+  Jika...
 ---
 
 Wastafel dan closet kayaknya tidak akan aneh lagi untuk anda. Kedua benda ini cukup masyhur di semua kalangan. Kini sudah ada banyak orang yg menggunakan wastafel dan closet modern.

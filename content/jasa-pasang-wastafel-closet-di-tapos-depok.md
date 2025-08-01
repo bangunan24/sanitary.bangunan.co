@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Tapos Depok"
-date: "2024-08-19"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Tapos Depok. Anda dapat menjadikan Jasa Pasang Wastafel & Closet di Tapos Depok dg metode pembelian sesuka anda sendiri. Jik..."
+title: Jasa Pasang Wastafel & Closet di Tapos Depok
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Tapos Depok. Anda dapat menjadikan Jasa
+  Pasang Wastafel & Closet di Tapos Depok dg metode pembelian sesuka anda
+  sendiri. Jik...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi untuk anda. Kedua benda ini cukup populer di kalangan masyarakat. Kini telah ada sangat banyak orang yg mengaplikasikan wastafel dan closet berkembang.

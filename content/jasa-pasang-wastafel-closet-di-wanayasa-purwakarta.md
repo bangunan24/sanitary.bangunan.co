@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Wastafel & Closet di Wanayasa Purwakarta"
-date: "2024-08-30"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Wastafel & Closet di Wanayasa Purwakarta. Anda dapat memilih Jasa Pasang Wastafel & Closet di Wanayasa Purwakarta dg sistem pembelian sesuka anda..."
+title: Jasa Pasang Wastafel & Closet di Wanayasa Purwakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Wastafel & Closet di Wanayasa Purwakarta. Anda dapat memilih Jasa
+  Pasang Wastafel & Closet di Wanayasa Purwakarta dg sistem pembelian sesuka
+  anda...
 ---
 
 Wastafel dan closet sepertinya tidak akan asing lagi bagi anda. Kedua benda ini cukup terkenal di semua kalangan. Sekarang telah ada banyak orang yg menerapkan wastafel dan closet berkembang.

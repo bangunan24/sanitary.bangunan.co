@@ -1,34 +1,33 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Dedi
-    message: >-
-      Saya memanfaatkan layanan pemasangan wastafel dari sanitary.bangunan.co
-      untuk proyek kamar mandi di rumah. Hasilnya super rapi dan desainnya
-      elegan.
-    response: >-
-      Terima kasih atas kepercayaan Anda! Kami gembira bisa memberikan layanan
-      pemasangan wastafel berkualitas untuk rumah Anda.
-    rating: 4
-  - avatar: /images/admin/avatar2.png
-    name: Wati
-    message: >-
-      Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet sangat
-      memuaskan. Semua dilakukan dengan baik dan hasilnya sangat memuaskan.
-    response: >-
-      Kami sangat menghargai ulasan Anda. Senang mengetahui Anda puas dengan
-      layanan kami.
-    rating: 4
-  - avatar: /images/admin/avatar3.png
     name: Fajar
     message: >-
-      Pemasangan wastafel dari sanitary.bangunan.co sangat profesional, dan
-      desainnya benar-benar sesuai dengan kamar mandi saya.
+      Layanan dari sanitary.bangunan.co benar-benar membantu dalam pemasangan
+      wastafel di rumah saya. Hasil akhir memuaskan, dengan desain yang elegan.
     response: >-
-      Terima kasih! Kami berkomitmen memberikan layanan yang profesional dengan
-      hasil terbaik.
+      Terima kasih atas kepercayaan Anda! Kami gembira bisa memberikan layanan
+      pemasangan wastafel berkualitas untuk kamar mandi Anda.
+    rating: 4
+  - avatar: /images/admin/avatar2.png
+    name: Dewi
+    message: >-
+      Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet sangat
+      memuaskan. Semua terpasang sesuai harapan dan hasilnya sangat memuaskan.
+    response: >-
+      Terima kasih banyak atas kepercayaan Anda. Kami sangat menghargai
+      ulasannya!
+    rating: 4
+  - avatar: /images/admin/avatar3.png
+    name: Agus
+    message: >-
+      Pemasangan wastafel dari sanitary.bangunan.co sangat cepat, dan desainnya
+      benar-benar sesuai dengan kamar mandi saya.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
+      kami!
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Andi
+    name: Samsul
     message: >-
       Pelayanan sanitary.bangunan.co dalam memasang wastafel dan closet sangat
       memuaskan. Kualitas barangnya bagus dan pemasangannya sangat rapi.
@@ -37,21 +36,21 @@ testimonials:
       terbaik.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Indah
+    name: Ayu
     message: >-
-      sanitary.bangunan.co menyediakan wastafel dan closet yang sangat elegan,
-      dan pemasangannya tepat. Desain minimalis yang saya inginkan berhasil
-      terwujud.
+      Pelayanan sanitary.bangunan.co sangat memuaskan. Wastafel dan closet yang
+      saya pasang sangat bagus dan sesuai dengan desain minimalis yang saya
+      inginkan.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih atas ulasan
-      positifnya!
+      Terima kasih! Kami senang bisa membantu mewujudkan desain wastafel set
+      minimalis untuk kamar mandi Anda.
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Dedi
+    name: Joko
     message: >-
-      Pelayanan dari sanitary.bangunan.co sangat profesional. Wastafel dan
-      closet yang saya pasang berkualitas dan hasilnya memuaskan.
+      Pelayanan dari sanitary.bangunan.co sangat cepat. Wastafel dan closet yang
+      saya pasang kokoh dan hasilnya memuaskan.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas ulasannya!
+      Terima kasih atas ulasan positifnya. Kami berkomitmen untuk terus
+      memberikan layanan terbaik!
     rating: 5
